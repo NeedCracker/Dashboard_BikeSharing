@@ -91,11 +91,9 @@ pip install streamlit pandas matplotlib
 
 4.  **Simpan Script dashboard.py**
 
+Pastikan file dashboard.py sudah tersimpan di direktori yang benar.
   
-
 5.  **Jalankan Dashboard:**
-
-  
 
 Untuk menjalankan dashboard Streamlit, ketik perintah berikut di terminal atau command prompt:
 
